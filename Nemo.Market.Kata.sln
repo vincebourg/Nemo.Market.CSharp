@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nemo.Market.Kata", "Nemo.Market.Kata\Nemo.Market.Kata.csproj", "{1A39096C-5A3A-4752-A1F4-B89E3787F452}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A39096C-5A3A-4752-A1F4-B89E3787F452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A39096C-5A3A-4752-A1F4-B89E3787F452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A39096C-5A3A-4752-A1F4-B89E3787F452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A39096C-5A3A-4752-A1F4-B89E3787F452}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F43889A5-4828-4C69-8E10-3FF6C8FE27A3}
+	EndGlobalSection
+EndGlobal
