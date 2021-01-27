@@ -31,7 +31,7 @@ namespace Nemo.Market.Kata.Tests
         {
             Pipe pipe = new Pipe();
             pipe.SetDiameter( PipeDiameter.Large );
-            Assert.AreEqual(pipe.Diameter, PipeDiameter.Large);
+            Assert.AreEqual((int)PipeDiameter.Large, pipe.Diameter);
         }
     }
 }

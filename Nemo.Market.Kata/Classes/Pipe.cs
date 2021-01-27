@@ -20,7 +20,7 @@ namespace Nemo.Market.Kata.Classes
             throw new NotImplementedException();
         }
 
-        internal void SetDiameter( PipeDiameter large )
+        internal void SetDiameter(PipeDiameter pipeDiameter)
         {
             throw new NotImplementedException();
         }

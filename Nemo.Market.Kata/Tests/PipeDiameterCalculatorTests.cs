@@ -63,7 +63,7 @@ namespace Nemo.Market.Kata.Tests
         {
             PipeDiameterCalculator calculator = new PipeDiameterCalculator();
             var result = calculator.ProcessDiameter( 16 );
-            Assert.AreEqual( PipeDiameter.Large, result );
+            Assert.AreEqual( PipeDiameter.ExtraLarge, result );
         }
 
         [TestMethod]
@@ -71,7 +71,7 @@ namespace Nemo.Market.Kata.Tests
         {
             PipeDiameterCalculator calculator = new PipeDiameterCalculator();
             var result = calculator.ProcessDiameter( 20 );
-            Assert.AreEqual( PipeDiameter.Large, result );
+            Assert.AreEqual( PipeDiameter.ExtraLarge, result );
         }
 
         [TestMethod]
